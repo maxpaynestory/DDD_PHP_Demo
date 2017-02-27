@@ -1,1 +1,1 @@
-# Freshly baked PHP in DDD example for nerds
+# Freshly baked DDD demo in PHP for nerds
