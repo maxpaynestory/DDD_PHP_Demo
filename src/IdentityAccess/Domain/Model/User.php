@@ -23,4 +23,9 @@ class User {
      * @var UserId
      */
     private $userId;
+    
+    /**
+     * @var ProfileId
+     */
+    private $profileId;
 }
