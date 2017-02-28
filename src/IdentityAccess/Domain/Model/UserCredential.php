@@ -23,4 +23,10 @@ class UserCredential {
      * @var Password
      */
     private $password;
+    
+    function __construct(UserCredentialId $userCredentialId, Email $email, Password $password) {
+        $this->userCredentialId = $userCredentialId;
+        $this->email = $email;
+        $this->password = $password;
+    }
 }
